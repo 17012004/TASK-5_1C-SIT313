@@ -1,0 +1,9 @@
+.CenteredBar {
+    display: flex;
+    background-color: grey;
+  }
+  .CenteredBar p{
+    text-align: left;
+    font-weight: bold;
+    display:block;
+  }
